@@ -1,0 +1,26 @@
+.header div#menu {
+  z-index: 98;
+}
+.header .navPages-wider {
+  z-index: 98;
+}
+.header .dropdown--quickSearch .form fieldset {
+  border-bottom: none;
+}
+.header .dropdown--quickSearch .form-field {
+  line-height: unset;
+}
+header.header.header-logo--left .dropdown--quickSearch.is-open {
+  width: 100vw !important;
+}
+.mz-search-box .mz-autocomplete .mz-container a {
+  color: #2f2f2b;
+  text-decoration: none;
+}
+.mz-search-box .mz-autocomplete .mz-container a:hover {
+  color: #e74c3c;
+}
+
+.dropdown--quickSearch .form-field.mz-fallback {
+  display: none !important;
+}
