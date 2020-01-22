@@ -1,6 +1,6 @@
 # bigcommerce-stencil-vault
 
-UI Components for Bigcommerce Vault Theme
+UI Components for BigCommerce Vault Theme
 
 - **Performance** - results provided in milliseconds.
 - **Scalability** - SaaS software is hosted in Google Cloud.
